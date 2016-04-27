@@ -1,0 +1,13 @@
+body{
+    background: #4c2f52;
+    color: #fffcec;
+}
+
+.container-fluid {
+    background: #4c2f52;
+}
+
+.top_space {
+    margin-top:50px;
+    font-size:50px;
+}

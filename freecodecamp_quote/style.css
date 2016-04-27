@@ -1,0 +1,25 @@
+@import "http://webfonts.ru/import/badscript.css";
+body {
+    background: #bee9d6 !important;
+
+
+}
+
+.container-fluid {
+    background: #bee9d6;
+
+
+}
+.jumbotron {
+    margin-top:200px;
+}
+
+div.container-fluid .row .jumbotron blockquote p.quote-text {
+    font-family: 'Bad Script';
+    font-size: 30px;
+}
+
+div.container-fluid .row .jumbotron blockquote footer cite {
+    font-family: 'Bad Script';
+    font-size:20px;
+}
